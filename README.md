@@ -1,4 +1,4 @@
-# 🌤️ Weather Finder
+# 🌤️ Weather Getter
 
 A simple and responsive **React + TypeScript** weather app that fetches real-time weather data from the **OpenWeatherMap API**.  
 The app is fully containerized with **Docker**, making it production-ready and easy to deploy.
