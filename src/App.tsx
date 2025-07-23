@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div style={{ padding: 30 }}>
-      <h1>🌤️ Weather Finder</h1>
+      <h1>🌤️ Weather Getter</h1>
       <input
         type="text"
         placeholder="Enter city"
